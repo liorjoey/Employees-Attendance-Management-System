@@ -1,4 +1,6 @@
-# Employees Attendance Management System- a program that maintains employee attendance data for a company or factory and generatea variety of reports upon request.
+# Employees Attendance Management System-
+
+a program that maintains employee attendance data for a company or factory and generatea variety of reports upon request.
 
 the program maintaince two files per each department\business name entered- employees list and attendance log
 and generate reports based on them:
